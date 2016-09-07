@@ -6,3 +6,7 @@ All u need is copy and paste, it will access your system clipboard and do the wo
 Start button will start monitoring you clipboard and stop button will stop this behavior
 
 Source code will be available soon
+
+Future Updates
+1. customize substitution list
+2. better GUI
