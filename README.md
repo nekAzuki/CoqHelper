@@ -10,3 +10,4 @@ Source code will be available soon
 Future Updates
 1. customize substitution list
 2. better GUI
+3.
